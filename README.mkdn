@@ -1,0 +1,34 @@
+= Autoword
+
+Autoword is an Applescript Application project for automation of filling invoice templates in Microsoft Word 2008.
+
+Autoword was created to process a list of word document files based on a data set.
+
+This project intend to serve as base to solve similar automations.
+
+== Features
+
+* Manipulate a list of word document files based on the same data set.
+* Generate PDF versions of the processed files.
+* Output files are named in a logic manner to easy backup and administration.
+* Cocoa interface to gather the data for the templates.
+
+== Features you could add
+
+* User should be able to define the template containing folder.
+* Autoword should prepare an e-mail with the generated files attached.
+
+== Installation and Setup
+
+# Copy the sample @letter-template.docx@ from the @templates@ folder to your Microsoft Word 2008 template folder: @~/Library/Application Support/Microsoft/Office/User Templates/My Templates/@
+# Open @autoword.xcodeproj@
+# Make your adaptations
+# Build it and run
+
+== License
+
+This plugin is licensed under the GNU GPL v2.
+
+== Project Help
+
+If you need help you can contact me by mail at _henrique at bastos dot net_.
