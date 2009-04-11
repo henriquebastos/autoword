@@ -20,14 +20,14 @@ h2. Features you could add
 
 h2. Installation and Setup
 
-1. Copy the sample @letter-template.docx@ from the @templates@ folder to your Microsoft Word 2008 template folder: @~/Library/Application Support/Microsoft/Office/User Templates/My Templates/@
-2. Open @autoword.xcodeproj@
-3. Make your adaptations
-4. Build it and run
+# Copy the sample @letter-template.docx@ from the @templates@ folder to your Microsoft Word 2008 template folder: @~/Library/Application Support/Microsoft/Office/User Templates/My Templates/@
+# Open @autoword.xcodeproj@
+# Make your adaptations
+# Build it and run
 
 h2. License
 
-This plugin is licensed under the GNU GPL v2.
+This plugin is licensed under the "GNU GPL v2":http://www.gnu.org/licenses/gpl-2.0.html.
 
 h2. Project Help
 
