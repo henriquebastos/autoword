@@ -27,7 +27,9 @@ h2. Installation and Setup
 
 h2. License
 
-This plugin is licensed under the "GNU GPL v2":http://www.gnu.org/licenses/gpl-2.0.html.
+This project is licensed under the "GNU GPL v2":http://www.gnu.org/licenses/gpl-2.0.html.
+
+The @bag_green@ icon is part of the Glossy Ecommerce Pack created by Eoin McGrath at "Starfish Web Consulting":http://www.starfishwebconsulting.co.uk 
 
 h2. Project Help
 
